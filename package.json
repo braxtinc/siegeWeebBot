@@ -1,0 +1,15 @@
+{
+  "name": "reaction-bot",
+  "version": "1.0.0",
+  "description": "A bot that will create roles and channels for game organization",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Castillo (Braxtin#3963)",
+  "license": "ISC"
+}
